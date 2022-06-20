@@ -10,5 +10,3 @@ for (let i = 0; i < student1Courses.length; i++){
     }
       
 }
-
-
